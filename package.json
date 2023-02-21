@@ -22,7 +22,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "browser-specs": "2.15.1",
+    "browser-specs": "3.47.0",
     "reffy": "^4.0.5",
     "strudy": "^1.0.0"
   }
